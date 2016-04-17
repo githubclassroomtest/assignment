@@ -1,0 +1,9 @@
+[submodule "assignment-homersimpson2016"]
+	path = assignment-homersimpson2016
+	url = https://github.com/githubclassroomtest/assignment-homersimpson2016
+[submodule "assignment-flouberry2"]
+	path = assignment-flouberry2
+	url = https://github.com/githubclassroomtest/assignment-flouberry2
+[submodule "assignment-dinever-test"]
+	path = assignment-dinever-test
+	url = https://github.com/githubclassroomtest/assignment-dinever-test
